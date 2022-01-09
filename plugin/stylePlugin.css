@@ -1,0 +1,23 @@
+.style-button{
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    margin: 1rem auto;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 100px;
+}
+.parents-button{
+    position: absolute;
+    top: 0;
+    z-index: 999;
+    
+}
+.parents-button button{
+    margin: 0.4rem;
+    background-color: #eee;
+    
+}
+

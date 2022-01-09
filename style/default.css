@@ -1,0 +1,29 @@
+body {
+    overflow-x: hidden;
+}
+
+.mydiv {
+    width: 400px;
+    height: 400px;
+    background: #dde;
+    border: 1px solid #aac;
+    margin: 5rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+.mydiv img{
+    display: block;
+    transform-origin: center;
+   
+
+ 
+    /* justify-content: center;
+    align-items: center; */
+   
+    /* margin: 0 auto; */
+   
+}
